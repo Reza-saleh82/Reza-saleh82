@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reza SalehAbadi</h1>
+<h1 style={color:'red'} align="center">Hi 👋, I'm Reza SalehAbadi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 💬 Ask me about **react**
